@@ -65,7 +65,7 @@ export const Dashboard = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-background-secondary">
+    <div className="bg-background-secondary">
       <div className="flex flex-col lg:flex-row">
         {/* Main Content */}
         <main className="flex-1">
